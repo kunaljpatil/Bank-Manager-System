@@ -16,7 +16,7 @@ This project demonstrates the use of:
 bank_manager_system/
 │
 ├── account.py      → Account, Saving, Current classes
-├── man.py          → Manager class (all banking operations)
+├── manager.py          → Manager class (all banking operations)
 ├── datastore.py    → Datastore (acts as in-memory database)
 ├── main.py         → Login system + Program entry point
 └── README.md       → Documentation
